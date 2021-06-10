@@ -16,7 +16,6 @@
 		01A7D5AD2627334D00454F0A /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A7D5AC2627334D00454F0A /* ResultViewController.swift */; };
 		01CABDB92626F6EB00EE25D1 /* Brain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CABDB82626F6EB00EE25D1 /* Brain.swift */; };
 		01D7E1A6262D0F600091B574 /* Extantions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D7E1A5262D0F600091B574 /* Extantions.swift */; };
-		01F083B12640236F001DF976 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 01F083B02640236F001DF976 /* Background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		01A7D5AC2627334D00454F0A /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		01CABDB82626F6EB00EE25D1 /* Brain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brain.swift; sourceTree = "<group>"; };
 		01D7E1A5262D0F600091B574 /* Extantions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extantions.swift; sourceTree = "<group>"; };
-		01F083B02640236F001DF976 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = ios/Background.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +69,6 @@
 				01CABDB62626F6A300EE25D1 /* Controller */,
 				018D8B40261B08C200C28D60 /* Assets.xcassets */,
 				018D8B45261B08C200C28D60 /* Info.plist */,
-				01F083B02640236F001DF976 /* Background.png */,
 			);
 			path = "To Binary";
 			sourceTree = "<group>";
@@ -162,7 +159,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				018D8B44261B08C200C28D60 /* LaunchScreen.storyboard in Resources */,
-				01F083B12640236F001DF976 /* Background.png in Resources */,
 				018D8B41261B08C200C28D60 /* Assets.xcassets in Resources */,
 				018D8B3F261B08C000C28D60 /* Main.storyboard in Resources */,
 			);
