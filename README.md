@@ -13,5 +13,5 @@ To Binary to convert decimal to binary and hexadecimal
 - Xcode 11
 
 ### Tools
-Architectural Patterns
+Architecture Patterns
 - MVC
