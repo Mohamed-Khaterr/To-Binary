@@ -1,7 +1,7 @@
 # To Binary
 To Binary to convert decimal to binary and hexadecimal 
 
-![Alt text](to_binary?raw=true "to_binary_image")
+<img src="to_binary.png"/>
 
 [![ezgif.com-gif-maker-15fdf92702fe47c2b.gif](https://s6.gifyu.com/images/ezgif.com-gif-maker-15fdf92702fe47c2b.gif)](https://gifyu.com/image/AFiu)
 
